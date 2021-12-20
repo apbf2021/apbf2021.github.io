@@ -5,7 +5,6 @@ permalink: /schedule/
 
 ---
 
-# Schedule
 ## Open
 
 |Date|Time| |Matches| |
