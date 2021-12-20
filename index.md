@@ -26,8 +26,8 @@ Matches will be played daily at:
 ## Convention Cards
 [Convention Card Downloads by Category](./convention-cards/)
 
-## Player List
-[Full List of Players](./player-list/)
+## Participants
+[Participant List](./participants/)
 
 ## Results and Vugraph
 Full results can be found on the Lovebridge page: [Lovebridge Vugraph](https://vugraph.lovebridge.com/)
