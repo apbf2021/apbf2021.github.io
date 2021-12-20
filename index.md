@@ -2,7 +2,7 @@
 22-24, 26-28 December
 
 ## Platform
-All matches will be played on [Lovebridge]('https://lovebridge.com/')
+All matches will be played on [Lovebridge](https://lovebridge.com/)
 
 ## Conditions of Contest
 [Official Conditions of Contest](./APBF_GCoC.pdf)
@@ -22,12 +22,12 @@ Matches will be played daily at:
 [Full Match Schedule - Senior](./schedule.html#Senior)
 
 ## Convention Cards
-[A full list of convention cards can be found here]('./convention-cards.html')
+[A full list of convention cards can be found here](./convention-cards.html)
 
 ## Player List
 [Full List of Players]('./player-list.html')
 
-## Results
-Full results can be found on the Lovebridge page:
+## Results and Vugraph
+Full results can be found on the Lovebridge page: [Lovebridge Vugraph](https://vugraph.lovebridge.com/)
 
 
