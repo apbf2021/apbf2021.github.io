@@ -1,4 +1,6 @@
-# Schedule
+layout: page
+title: "Schedule"
+permalink: /schedule/
 
 ## Open
 
