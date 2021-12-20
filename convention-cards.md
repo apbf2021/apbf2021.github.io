@@ -1,8 +1,11 @@
 # Convention Cards
-[Open](./convention-cards.html#Open).
-[Ladies](./convention-cards.html#Ladies).
-[Mixed](./convention-cards.html#Mixed).
-[Senior](./convention-cards.html#Senior).
+[Open](./convention-cards.html#Open)
+
+[Ladies](./convention-cards.html#Ladies)
+
+[Mixed](./convention-cards.html#Mixed)
+
+[Senior](./convention-cards.html#Senior)
 
 ## Open
 ### China
