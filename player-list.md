@@ -152,6 +152,122 @@ permalink: /participants/
 </table>
 
 ## Ladies
+<table>
+<tbody>
+<tr>
+  <td><b>China</b></td>
+  <td>Wang Nan</td>
+  <td>Ran Jingrong</td>
+  <td>Wu Shaohong</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Shen Lili</td>
+  <td>Wang Jian</td>
+  <td>Wang Yan</td>
+  <td><b>NPC: Wang Xiaojing</b></td>
+</tr>
+<tr>
+  <td><b>China Hong Kong</b></td>
+  <td>Charmian Koo</td>
+  <td>Crystal Tang</td>
+  <td>Flora Wong</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Helen Yeung</td>
+  <td>Joyce Tung</td>
+  <td>Pearlie Chan</td>
+  <td>&nbsp;</td>
+</tr>
+<tr>
+  <td><b>Chinese Taipei</b></td>
+  <td>Yin-Shou Chen</td>
+  <td>Yin-Yu Lin</td>
+  <td>Pei-Hua Liu</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Kuan-Chu Hsiao</td>
+  <td>Violet Liu</td>
+  <td>Beatrice Yang</td>
+  <td>&nbsp;</td>
+</tr>
+<tr>
+  <td><b>Indonesia</b></td>
+  <td>Fera Damayanti</td>
+  <td>Riantini</td>
+  <td>Conny E Sumampouw</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Rury Andhani</td>
+  <td>Rachma Shaumi</td>
+  <td>Roro Joffani T D</td>
+  <td><b>NPC: Kamto</b></td>
+</tr>
+<tr>
+  <td><b>Japan</b></td>
+  <td>Makiko Satou</td>
+  <td>Motomi Shirogane</td>
+  <td>Megumi Takasaki</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Natsuko Nishida</td>
+  <td>Sayori Harasawa</td>
+  <td>Akiko Yanagisawa</td>
+  <td></td>
+</tr>
+<tr>
+  <td><b>Korea</b></td>
+  <td>Park Jungyoon</td>
+  <td>Kim Choonkyung</td>
+  <td>Park Myungkee</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Kim Moonsup</td>
+  <td>Koh Inkyung</td>
+  <td>Moon Junghyeon</td>
+  <td></td>
+</tr>
+<tr>
+  <td><b>Singapore</b></td>
+  <td>Lim Jing Xuan</td>
+  <td>Low Siok Hui</td>
+  <td>Seet Choon Cheng</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Li Lan</td>
+  <td>Tan Sock Ngin</td>
+  <td>Soh Jay Min</td>
+  <td></td>
+</tr>
+<tr>
+  <td><b>Thailand</b></td>
+  <td>Ann Malakul</td>
+  <td>Yawamon Phimpanyas</td>
+  <td>Phattharin L</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Saowalak K</td>
+  <td>Wanna A T</td>
+  <td>Nitjaree Satayarak</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
 
 ## Mixed
