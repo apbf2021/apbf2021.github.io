@@ -29,7 +29,7 @@ Matches will be played daily at:
 [Full Match Schedule - Senior](./schedule/#senior)
 
 ## Convention Cards
-[A full list of convention cards can be found here](./convention-cards/)
+[Convention Card Downloads by Category](./convention-cards/)
 
 ## Player List
 [Full List of Players](./player-list/)
