@@ -5,13 +5,13 @@ permalink: /convention-cards/
 
 ---
 
-[Open](./convention-cards.html#Open)
+[Open](#open)
 
-[Ladies](./convention-cards.html#Ladies)
+[Ladies](#ladies)
 
-[Mixed](./convention-cards.html#Mixed)
+[Mixed](#mixed)
 
-[Senior](./convention-cards.html#Senior)
+[Senior](#senior)
 
 ## Open
 ### China
