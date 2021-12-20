@@ -5,7 +5,7 @@
 All matches will be played on [Lovebridge]('https://lovebridge.com/')
 
 ## Conditions of Contest
-[Official Conditions of Contest]('./APBF_GCoC.pdf)
+[Official Conditions of Contest](./APBF_GCoC.pdf)
 
 ## Schedule
 Matches will be played daily at:
@@ -13,10 +13,13 @@ Matches will be played daily at:
 - 12.30pm (TH/ID/ 1.30pm (CN/HK/MC/TW/SG/PH)/ 2.30pm (JP/KR)
 - 3.20pm (TH/ID/ 4.20pm (CN/HK/MC/TW/SG/PH)/ 5.20pm (JP/KR)
 
-[Full Match Schedule - Open]('./schedule.html#Open')
-[Full Match Schedule - Ladies]('./schedule.html#Ladies')
-[Full Match Schedule - Mixed]('./schedule.html#Mixed')
-[Full Match Schedule - Senior]('./schedule.html#Senior')
+[Full Match Schedule - Open](./schedule.html#Open)
+
+[Full Match Schedule - Ladies](./schedule.html#Ladies)
+
+[Full Match Schedule - Mixed](./schedule.html#Mixed)
+
+[Full Match Schedule - Senior](./schedule.html#Senior)
 
 ## Convention Cards
 [A full list of convention cards can be found here]('./convention-cards.html')
