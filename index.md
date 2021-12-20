@@ -1,6 +1,3 @@
-layout: page
-title: "APBF Championships 2021"
-permalink: /home/
 
 # APBF Championships 2021
 
