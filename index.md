@@ -1,5 +1,9 @@
+---
+layout: page
+title: "APBF 2021 Home"
+permalink: /Home/
 
-# APBF Championships 2021
+---
 
 ## Dates
 22-24, 26-28 December
