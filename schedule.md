@@ -1,4 +1,6 @@
-# Open
+# Schedule
+
+## Open
 
 |Date|Time| |Matches| |
 |:----|:----|:----|:----|:----|
@@ -48,7 +50,7 @@
 | | | |Thailand|China Macau|
 | | | |Chinese Taipei|Philippines|
 
-# Ladies
+## Ladies
 
 |Date|Time| |Matches| |
 |:----|:----|:----|:----|:----|
@@ -82,7 +84,7 @@
 | | | |Chinese Taipei|Indonesia|
 
 
-# Mixed
+## Mixed
 
 |Date|Time| |Matches| |
 |:----|:----|:----|:----|:----|
@@ -115,7 +117,7 @@
 | | | |China Hong Kong|Japan|
 | | | |China|Korea|
 
-# Senior
+## Senior
 
 |Date|Time| |Matches| |
 |:----|:----|:----|:----|:----|
