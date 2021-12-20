@@ -1,3 +1,8 @@
+layout: page
+title: "Convention Cards"
+permalink: /convention-cards/
+
+
 # Convention Cards
 [Open](./convention-cards.html#Open)
 
