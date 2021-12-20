@@ -1,4 +1,9 @@
 # Convention Cards
+[Open](./convention-cards.html#Open).
+[Ladies](./convention-cards.html#Ladies).
+[Mixed](./convention-cards.html#Mixed).
+[Senior](./convention-cards.html#Senior).
+
 ## Open
 ### China
 
@@ -19,3 +24,53 @@
 ### Singapore
 
 ### Thailand
+
+## Ladies
+### China
+
+### China Hong Kong
+
+### Chinese Taipei
+
+### Indonesia
+
+### Japan
+
+### Korea
+
+### Singapore
+
+### Thailand
+
+## Mixed
+### China
+
+### China Hong Kong
+
+### Chinese Taipei
+
+### Indonesia
+
+### Japan
+
+### Korea
+
+### Singapore
+
+### Thailand
+
+## Senior
+### China
+
+### China Hong Kong
+
+### Chinese Taipei
+
+### Indonesia
+
+### Korea
+
+### Japan
+
+### Singapore
+
