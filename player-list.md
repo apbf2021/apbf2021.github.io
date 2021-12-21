@@ -291,7 +291,7 @@ permalink: /participants/
   <td><b>China Hong Kong</b></td>
   <td>Javy Choy</td>
   <td>K W Tam</td>
-  <td>Terence CHan</td>
+  <td>Terence Chan</td>
   <td></td>
 </tr>
 <tr>
