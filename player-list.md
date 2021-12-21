@@ -285,7 +285,7 @@ permalink: /participants/
   <td>Feng Xuefeng</td>
   <td>Hou Xu</td>
   <td>Huang Yan</td>
-  <td><b>NPC: WChen Ji</b></td>
+  <td><b>NPC: Chen Ji</b></td>
 </tr>
 <tr>
   <td><b>China Hong Kong</b></td>
@@ -392,6 +392,104 @@ permalink: /participants/
 
 <table>
 <tbody>
-  
+  <tr>
+  <td><b>China</b></td>
+  <td>Lin Rongqiang</td>
+  <td>Tao Jianhua</td>
+  <td>Shen Mingkun</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Sun ming</td>
+  <td>Shen Xiaonong</td>
+  <td>Liang Yixiong</td>
+  <td></td>
+</tr>
+<tr>
+  <td><b>China Hong Kong</b></td>
+  <td>Ko Chuen Ho</td>
+  <td>David Chan</td>
+  <td>Edmund Tse</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Peter Yeung</td>
+  <td>Roger Ling</td>
+  <td>W H Fok</td>
+  <td>&nbsp;</td>
+</tr>
+<tr>
+  <td><b>Chinese Taipei</b></td>
+  <td>Chen Yeh</td>
+  <td>Patrick Huang</td>
+  <td>Shih Juei-Yu</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Chih-Mou Lin</td>
+  <td>Jen-Chien Chung</td>
+  <td>Chu Yao-Ming</td>
+  <td><b>Yeh Tong Shu Ping</b></td>
+</tr>
+<tr>
+  <td><b>Indonesia</b></td>
+  <td>Bambang Hartono</td>
+  <td>M Apin Nurhalim</td>
+  <td>Rustam Effendy</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Giovani WatuLingas</td>
+  <td>Tanudjan Sugiarto</td>
+  <td>Bert Toar Polii</td>
+  <td></td>
+</tr>
+<tr>
+  <td><b>Japan</b></td>
+  <td>Masayuki Ino</td>
+  <td>Tadashi Imakura</td>
+  <td>Akito Omasa</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Robert Geller</td>
+  <td>Takashi Maeda</td>
+  <td>Kazuhiko Tamada</td>
+  <td></td>
+</tr>
+<tr>
+  <td><b>Korea</b></td>
+  <td>Sung KyungHae</td>
+  <td>Yang Sungae</td>
+  <td>Kim YoonKyung</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Hwang Mansuk</td>
+  <td>Im Hyun</td>
+  <td>Mirye Chang</td>
+  <td></td>
+</tr>
+<tr>
+  <td><b>Singapore</b></td>
+  <td>Jane Choo</td>
+  <td>Tan Yoke Lan</td>
+  <td>Lian Sui Sim</td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td>Trevor Li</td>
+  <td>SK Phang</td>
+  <td>TC Tan</td>
+  <td></td>
+</tr>
+
 </tbody>
 </table>  
