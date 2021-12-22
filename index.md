@@ -35,4 +35,5 @@ Matches will be played daily at:
 ## Results and Vugraph
 Full results can be found on the Lovebridge page: [Lovebridge Vugraph](https://vugraph.lovebridge.com/)
 
+[Hand Records](./hand-records/)
 
