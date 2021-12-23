@@ -35,5 +35,7 @@ Matches will be played daily at:
 ## Results and Vugraph
 Full results can be found on the Lovebridge page: [Lovebridge Vugraph](https://vugraph.lovebridge.com/)
 
+[Cross Table - Open](./cross-tables/#open) &emsp; [Cross Table - Ladies](./cross-tables/#ladies) &emsp; [Cross Table - Mixed](./cross-tables/#mixed) &emsp; [Cross Table - Senior](./cross-tables/#senior)
+
 [Hand Records](./hand-records/)
 
