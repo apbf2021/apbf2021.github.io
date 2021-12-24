@@ -16,3 +16,5 @@ permalink: /hand-records/
 [Open R5](./hand-records/open_r5.pdf) &emsp; [Ladies R5](./hand-records/ladies_r5.pdf) &emsp; [Mixed R5](./hand-records/mixed_r5.pdf) &emsp; [Senior R4](./hand-records/senior_r5.pdf)
 
 [Open R6](./hand-records/open_r6.pdf) &emsp; 
+
+[Open R7](./hand-records/open_r7.pdf) &emsp; [Ladies R6](./hand-records/ladies_r6.pdf) &emsp; [Mixed R5](./hand-records/mixed_r6.pdf) &emsp; [Senior R4](./hand-records/senior_r6.pdf)
