@@ -126,35 +126,35 @@ permalink: /schedule/
 ## Senior
 
 | Date   | Time                                            |         | Matches         |                 |
-|:--------|:-------------------------------------------------|:---------|:-----------------|:-----------------|
+|--------|-------------------------------------------------|---------|-----------------|-----------------|
 | 26 Dec | 9am (UTC+7), 10am (UTC+8), 11am (UTC+9)         | Round 1 | Indonesia       | Bye             |
-|        |                                                 |         | Chinese Taipei  | China Hong Kong |
-|        |                                                 |         | China           | Korea           |
-|        |                                                 |         | Japan           | Singapore       |
-|        | 12.30pm (UTC+7), 1.30pm (UTC+8), 2.30pm (UTC+9) | Round 2 | Indonesia       | China Hong Kong |
 |        |                                                 |         | Chinese Taipei  | Korea           |
+|        |                                                 |         | China           | China Hong Kong |
+|        |                                                 |         | Japan           | Singapore       |
+|        | 12.30pm (UTC+7), 1.30pm (UTC+8), 2.30pm (UTC+9) | Round 2 | Indonesia       | Korea           |
+|        |                                                 |         | Chinese Taipei  | China Hong Kong |
 |        |                                                 |         | China           | Singapore       |
 |        |                                                 |         | Japan           | Bye             |
-|        | 3.20pm (UTC+7), 4.20pm (UTC+8), 5.20pm (UTC+9)  | Round 3 | Indonesia       | Korea           |
+|        | 3.20pm (UTC+7), 4.20pm (UTC+8), 5.20pm (UTC+9)  | Round 3 | Indonesia       | China Hong Kong |
 |        |                                                 |         | Chinese Taipei  | Singapore       |
 |        |                                                 |         | China           | Bye             |
-|        |                                                 |         | Japan           | China Hong Kong |
+|        |                                                 |         | Japan           | Korea           |
 | 27 Dec | 9am (UTC+7), 10am (UTC+8), 11am (UTC+9)         | Round 4 | Indonesia       | Singapore       |
 |        |                                                 |         | Chinese Taipei  | Bye             |
-|        |                                                 |         | China           | China Hong Kong |
-|        |                                                 |         | Japan           | Korea           |
+|        |                                                 |         | China           | Korea           |
+|        |                                                 |         | Japan           | China Hong Kong |
 |        | 12.30pm (UTC+7), 1.30pm (UTC+8), 2.30pm (UTC+9) | Round 5 | Indonesia       | Japan           |
 |        |                                                 |         | Chinese Taipei  | China           |
 |        |                                                 |         | Singapore       | Bye             |
-|        |                                                 |         | Korea           | China Hong Kong |
+|        |                                                 |         | China Hong Kong | Korea           |
 | 28 Dec | 9am (UTC+7), 10am (UTC+8), 11am (UTC+9)         | Round 6 | Indonesia       | China           |
 |        |                                                 |         | Chinese Taipei  | Japan           |
-|        |                                                 |         | Singapore       | China Hong Kong |
-|        |                                                 |         | Korea           | Bye             |
-|        | 12.30pm (UTC+7), 1.30pm (UTC+8), 2.30pm (UTC+9) | Round 7 | Indonesia       | Chinese Taipei  |
-|        |                                                 |         | China           | Japan           |
 |        |                                                 |         | Singapore       | Korea           |
 |        |                                                 |         | China Hong Kong | Bye             |
+|        | 12.30pm (UTC+7), 1.30pm (UTC+8), 2.30pm (UTC+9) | Round 7 | Indonesia       | Chinese Taipei  |
+|        |                                                 |         | China           | Japan           |
+|        |                                                 |         | Singapore       | China Hong Kong |
+|        |                                                 |         | Korea           | Bye             |
 
 
 
