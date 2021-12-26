@@ -20,3 +20,5 @@ permalink: /hand-records/
 [Open R7](./hand-records/open_r7.pdf) &emsp; [Ladies R6](./hand-records/ladies_r6.pdf) &emsp; [Mixed R6](./hand-records/mixed_r6.pdf) &emsp; [Senior R6](./hand-records/senior_r6.pdf)
 
 [Open R8](./hand-records/open_r8.pdf) &emsp; [Ladies R7](./hand-records/ladies_r7.pdf) &emsp; [Mixed R7](./hand-records/mixed_r7.pdf) &emsp; [Senior R7](./hand-records/senior_r7.pdf)
+
+[Open R9](./hand-records/open_r9.pdf) &emsp; 
