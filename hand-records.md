@@ -26,3 +26,11 @@ permalink: /hand-records/
 [Open R10](./hand-records/open_r10.pdf) &emsp; [Ladies R8](./hand-records/ladies_r8.pdf) &emsp; [Mixed R8](./hand-records/mixed_r8.pdf) &emsp; [Senior R8](./hand-records/senior_r8.pdf)
 
 [Open R11](./hand-records/open_r11.pdf) &emsp; [Ladies R9](./hand-records/ladies_r9.pdf) &emsp; [Mixed R9](./hand-records/mixed_r9.pdf) &emsp; [Senior R9](./hand-records/senior_r9.pdf)
+
+[Open R12](./hand-records/open_r12.pdf) &emsp; [Ladies R10](./hand-records/ladies_r10.pdf) &emsp; [Mixed R10](./hand-records/mixed_r10.pdf) &emsp; [Senior R10](./hand-records/senior_r10.pdf)
+
+[Open R13](./hand-records/open_r13.pdf) &emsp; [Ladies R11](./hand-records/ladies_r11.pdf) &emsp; [Mixed R11](./hand-records/mixed_r11.pdf) &emsp; [Senior R11](./hand-records/senior_r11.pdf)
+
+[Open R14](./hand-records/open_r14.pdf) &emsp; [Ladies R12](./hand-records/ladies_r12.pdf) &emsp; [Mixed R12](./hand-records/mixed_r12.pdf) &emsp; [Senior R12](./hand-records/senior_r12.pdf)
+
+[Open R15](./hand-records/open_r15.pdf) &emsp; 
